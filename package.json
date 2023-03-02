@@ -1,0 +1,20 @@
+{
+  "name": "hypercast-vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild index.ts --bundle --outfile=index.js",
+    "serve": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.17.10",
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "hypercast": "^0.2.0"
+  }
+}

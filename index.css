@@ -1,0 +1,19 @@
+.btn {
+  display: inline-block;
+  padding: 8px 12px;
+  background: blue;
+  font-family: monospace;
+  color: white;
+  font-size: 1rem;
+}
+input {
+  padding: 12px;
+  width: 100%;
+  font-size: 1rem;
+}
+.blue {
+  color: blue;
+}
+.gray {
+  color: gray;
+}
